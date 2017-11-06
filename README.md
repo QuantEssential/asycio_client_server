@@ -11,5 +11,6 @@ pip install -r requirements.txt
 
 python server.py
 
-In a new tab, run:
+In a new tab:
+source venv/bin/activate
 python client.py
